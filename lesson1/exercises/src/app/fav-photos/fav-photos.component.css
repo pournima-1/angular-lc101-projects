@@ -1,9 +1,12 @@
 h3 {
-   color: brown;
+   font-family: "Times new roman";
+   color: red;
+   text-decoration: underline;
 }
 
 img {
-
+width: 60%;
+height: 60%;
 }
 
 .photos {

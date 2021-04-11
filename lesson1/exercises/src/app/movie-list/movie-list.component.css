@@ -1,0 +1,14 @@
+.movies {
+   font-family: "Times new roman";
+   color: darkviolet;
+    font-size: 14pt;
+    border: dotted;
+    border-color: brown;
+ }
+ 
+ h3 {
+   font-family: "Times new roman";
+    text-align: center;
+    text-decoration: underline;
+    color: red;
+ }

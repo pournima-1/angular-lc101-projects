@@ -1,0 +1,15 @@
+.chores {
+    font-family: "Times new roman";
+    color: darkviolet;
+    font-size: 15pt;
+    border:dotted;
+    border-color: brown;
+}
+ 
+ li {
+    font-style: italic;
+ }
+ h3{
+    color: red;
+     text-decoration: underline;
+ }
