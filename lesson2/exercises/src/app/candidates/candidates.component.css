@@ -18,3 +18,8 @@ img {
 .crew {
     color: #3c79b8;
 }
+
+.btnHide
+{
+    visibility: hidden;
+}
